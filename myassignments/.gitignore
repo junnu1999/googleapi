@@ -1,0 +1,7 @@
+# this hidden folder contains your local, virtual environment
+.env
+
+# this hidden file contains sensitive keys and environmental config vars 
+myassignment/.env
+# this token contains your sensitive google service account info
+google-credentials.json
